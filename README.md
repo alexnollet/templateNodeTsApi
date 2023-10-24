@@ -1,2 +1,0 @@
-# templateNodeTsApi
-Created with CodeSandbox
